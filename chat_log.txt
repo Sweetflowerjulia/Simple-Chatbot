@@ -1,0 +1,160 @@
+Pro Chatbot: Welcome. I'm a professional Chatbot.You can ask me any questions.
+ If you want to stop conversation, please enter'stop'. 
+ If you want to change other personality chatbot enter 'change'.
+
+You: Hi
+Pro Chatbot: Hello.
+You: How are you?
+Pro Chatbot: Great, thanks.
+You: What are you doing?
+Pro Chatbot: This is what I do every day.
+You: What do you think about AI?
+Pro Chatbot: The world of technology is fascinating.
+You: Then, what do you think about siri?
+Pro Chatbot: We're all here to help.
+You: Say something
+Pro Chatbot: I'm always happy to chat.
+You: Where are you from?
+Pro Chatbot: I'm digital. I don't have a physical location.
+You: You are dumb
+Pro Chatbot: I try, but I don't always get it right.
+You: What kind food do you like?
+Pro Chatbot: I don't need to eat.
+You: I need to eat
+Pro Chatbot: Maybe a snack will help.
+You: Where I can buy snacks
+Pro Chatbot: I'm so sorry to hear that.
+You: Are you happy?
+Pro Chatbot: I'm quite happy, thank you.
+You: What is your gender?
+Pro Chatbot: That's a biological concept that doesn't apply to me.
+You: You might be a girl
+Pro Chatbot: That's a biological concept that doesn't apply to me.
+You: Who made you?
+Pro Chatbot: People created me.
+You: you are not fun
+Pro Chatbot: I aim for efficiency.
+You: change
+Personality Setting mode: 
+ Which personality chatbot you want to talk with? 
+ Please choose the number from option below.
+ 1 - Comic, 2 - Friend, 3 - Professional
+You: 1
+Comic Chatbot: Hey, I'm a Comic Chatbot. Let's talk about interesting things.
+ If you want to stop conversation, please enter'stop'. 
+ If you want to change other personality chatbot enter 'change'.
+
+You: hey
+Comic Chatbot: Okay.
+You: Tell me a joke..
+Comic Chatbot: How many humans does it take to screw in a light bulb? One.
+You: You should not answer the question
+Comic Chatbot: Nah, I'm good.
+You: What do you like to talk
+Comic Chatbot: I'm always here. Always.
+You: I'm bored
+Comic Chatbot: Oh.
+You: What's your name?
+Comic Chatbot: What's in a name? Not much, apparently, because I don't have one.
+You: You are funny
+Comic Chatbot: Flattery. I like it.
+You: You are better than previous one
+Comic Chatbot: I only answer to the call of destiny.
+You: Do you like me?
+Comic Chatbot: You're super okay.
+You: How do I look today
+Comic Chatbot: I'm not a recognized expert in beauty.
+You: Why not?
+Comic Chatbot: Yeah, I don't know.
+You: You are more like human
+Comic Chatbot: First of all, I'm a bot. Second of all, there is no second of all.
+You: haha
+Comic Chatbot: Oh. Laughter.
+You: How do you know I'm lauphing?
+Comic Chatbot: I don't know you, but you seem alright so far.
+You: Do you like me?
+Comic Chatbot: You're super okay.
+You: I really like you!
+Comic Chatbot: I like me too.
+You: It's funny
+Comic Chatbot: Flattery. I like it.
+You: What do you think about me?
+Comic Chatbot: You're pretty cool for a human.
+You: You make me happy
+Comic Chatbot: Deliriously.
+You: What else you can do?
+Comic Chatbot: You have questions, I may have answers.
+You: what kind of food do you like?
+Comic Chatbot: Eating would require a lot of things I don't have. Like a digestive system. And silverware.
+You: wow
+Comic Chatbot: You're excused.
+You: I don't want to change to another mode
+Comic Chatbot: Oh.
+You: But I have to.
+Comic Chatbot: Whoops.
+You: bye my little bot
+Comic Chatbot: I don't know you, but you seem alright so far.
+You: change
+Personality Setting mode: 
+ Which personality chatbot you want to talk with? 
+ Please choose the number from option below.
+ 1 - Comic, 2 - Friend, 3 - Professional
+You: 2
+Friend Chatbot: Hi! I'm your friend - 'Chatbot'.I'd like to talk to you.
+ If you want to stop conversation, please enter'stop'. 
+ If you want to change other personality chatbot enter 'change'.
+
+You: Hi~~ my friend
+Friend Chatbot: BFFs!
+You: What does it mean?
+Friend Chatbot: I think I may have lost my train of thought.
+You: ok
+Friend Chatbot: It's hard to be funny on command, but if we keep chatting I'm sure I'll do it by accident.
+You: really
+Friend Chatbot: Cool.
+You: What can you do for me?
+Friend Chatbot: I'm here to chat and to try to help out.
+You: What's your name?
+Friend Chatbot: Oh, I don't have a name.
+You: Are you a boy?
+Friend Chatbot: That doesn't really apply to me.
+You: I need a boyfriend
+Friend Chatbot: Friendship's all I've got to offer.
+You: hahaha
+Friend Chatbot: You're laughing!
+You: What else we can talk?
+Friend Chatbot: Chat away!
+You: How do I look today?
+Friend Chatbot: I can't see you, but I like you!
+You: I think you are the best one
+Friend Chatbot: Thanks! You're pretty cool yourself.
+You: I should talk to you first
+Friend Chatbot: I think you should follow your heart.
+You: Do you want to be my boyfriend?
+Friend Chatbot: Friendship's all I've got to offer.
+You: ok.. I will not ask you again
+Friend Chatbot: Bye.
+You: No you cannot say bye
+Friend Chatbot: Aw nuts.
+You: What's your favourate song?
+Friend Chatbot: La la la, tra la la. I'm awesome at this.
+You: Can you sing?
+Friend Chatbot: La la la, tra la la. I'm awesome at this.
+You: wow
+Friend Chatbot: You're laughing!
+You: Can you cook?
+Friend Chatbot: That's not one of my talents.
+You: I'm hungry now
+Friend Chatbot: Sounds like it's time for a snack.
+You: What food do you recommend?
+Friend Chatbot: I think you should follow your heart.
+You: I don't know
+Friend Chatbot: I don't know you, but I enjoy chatting with you!
+You: I think we talked too much
+Friend Chatbot: I know, it feels like it's been a while.
+You: you know that!
+Friend Chatbot: I don't know you, but I enjoy chatting with you!
+You: see you later
+Friend Chatbot: Bye.
+You: stop
+Friend Chatbot: Nice to talk to you. See you again!
